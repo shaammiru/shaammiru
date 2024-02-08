@@ -31,7 +31,7 @@ My name is Muhammad Syamil Hamami, I'm a software engineer, focusing on backend 
 
 <h3 align="center">Github Stats</h3>
 
-<!-- <div align="center">
+<div align="center">
 
 ![shaammiru's Stats](https://github-readme-stats.vercel.app/api?username=shaammiru&theme=react&show_icons=true&hide_border=false&count_private=true)
 
@@ -39,4 +39,4 @@ My name is Muhammad Syamil Hamami, I'm a software engineer, focusing on backend 
  
 ![shaammiru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaammiru&theme=react&show_icons=true&hide_border=false&layout=compact)
 
-</div> -->
+</div>
