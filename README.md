@@ -2,13 +2,15 @@
 
 My name is Muhammad Syamil Hamami, a dedicated student at UIN Sunan Gunung Djati Bandung. I am deeply passionate about software engineering, particularly focusing on backend development. Currently, I'm exploring the Go programming language and the Chi framework to enhance my skills. 
 
+<h3 align="center">My Stacks</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,go,html,css,git,svelte,react,tailwind,vscode,neovim,postgres,mongodb,prisma,docker,nginx,aws,vercel&perline=10" />
   </a>
 </p>
 
-<h3 align="center">Github Stats</h3>
+<h3 align="center">My Stats</h3>
 
 <div align="center">
 
