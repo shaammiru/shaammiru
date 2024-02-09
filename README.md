@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Muhammad Syamil Hamami, I'm a software engineer, focusing on backend development.
+My name is Muhammad Syamil Hamami, a dedicated student at UIN Sunan Gunung Djati Bandung. I am deeply passionate about software engineering, particularly focusing on backend development. Currently, I'm exploring the Go programming language and the Chi framework to enhance my skills. 
 
 <p align="center">
   <a href="https://skillicons.dev">
