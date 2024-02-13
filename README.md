@@ -16,8 +16,8 @@ My name is Muhammad Syamil Hamami, a dedicated student at UIN Sunan Gunung Djati
 
 ![shaammiru's Stats](https://github-readme-stats.vercel.app/api?username=shaammiru&theme=react&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&card_width=500)
 
-![shaammiru's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaammiru&theme=react&hide_border=false&card_width=500)
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=shaammiru&theme=catppuccin-mocha&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
 ![shaammiru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaammiru&theme=react&show_icons=true&hide_border=false&langs_count=5&card_width=500)
 
 </div>
