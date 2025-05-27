@@ -6,7 +6,7 @@ My name is Muhammad Syamil Hamami, a dedicated student at UIN Sunan Gunung Djati
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,go,html,css,git,svelte,react,tailwind,vscode,neovim,postgres,mongodb,prisma,docker,nginx,aws,vercel&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,py,bash,kotlin,vue,nodejs,bun,nestjs,nuxtjs,express,fastapi,postgres,linux,nginx,gcp,git&perline=10" />
   </a>
 </p>
 
